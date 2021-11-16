@@ -1,7 +1,7 @@
 # OAT-suicide-CPRD-cohortstudy
-This file contains Excel files of Read and product codes used for the study titled "Self-harm and suicide during and after opiate agonist treatment: a cohort study of primary care patients in England".
+This file contains Excel files of medcodes and product codes used to analyse Clinical Practice Research Datalink (CPRD) data for the study titled "Self-harm and suicide during and after opiate agonist treatment: a cohort study of primary care patients in England".
 
-Paper authors: Prianka Padmanathan, Harriet Forbes, Maria Theresa Redaniel, David Gunnell, Dan Lewer, Paul Moran, Ben Watson, Louisa Degenhardt, Matthew Hickman
+Research paper authors: Prianka Padmanathan, Harriet Forbes, Maria Theresa Redaniel, David Gunnell, Dan Lewer, Paul Moran, Ben Watson, Louisa Degenhardt, Matthew Hickman
 
 Product codes for the medications methadone and buprenorphine and Read codes indicating "illicit opioid use" were used to define the study population. These were identified independently and agreed by two authors (P.P. and D.L.). 
 
