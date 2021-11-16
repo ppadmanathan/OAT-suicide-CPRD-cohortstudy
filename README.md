@@ -1,5 +1,5 @@
 # OAT-suicide-CPRD-cohortstudy
-This file contains Excel files of medcodes and product codes used to analyse Clinical Practice Research Datalink (CPRD) data for the study titled "Self-harm and suicide during and after opiate agonist treatment: a cohort study of primary care patients in England".
+This repository contains MS Excel files of codelists of medcodes and product codes used to analyse Clinical Practice Research Datalink (CPRD) data for the study titled "Self-harm and suicide during and after opiate agonist treatment: a cohort study of primary care patients in England".
 
 Research paper authors: Prianka Padmanathan, Harriet Forbes, Maria Theresa Redaniel, David Gunnell, Dan Lewer, Paul Moran, Ben Watson, Louisa Degenhardt, Matthew Hickman
 
